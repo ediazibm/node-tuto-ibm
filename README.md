@@ -1,4 +1,6 @@
 # node-tuto-ibm
+# This is not an IBM tutorial, this is just a bunch of notes and code that I wrote from a Pluralsight tutorial.
+# The author's name is Samer Buna
 0)Intro
     - What is Node JS?
         - Is JS on your backend servers
