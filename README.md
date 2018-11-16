@@ -30,6 +30,14 @@
             .then(chick => raiseChick()) // Success outcome
             .catch(badEgg => throw badEgg) // Fail outcome
 1)Getting Started
+    - REPL: Read, Eval, Print, Loop
+    - .help: it will print you some help commands into the REPL session.
+    - "require" function is what you use to manage the dependencies of your programs.
+    - Working with Timers
+        - setTimeout (delay the execution of other functions which they receive as arguments)
+        - setInterval (repeat the execution)
+        - clearTimeOut(cancel the setTimeout process)
+        - clearInterval(cancel the setInterval process)
 2)Node Package Manager
 3)Working With Web Servers
 4)Modern JavaScript
