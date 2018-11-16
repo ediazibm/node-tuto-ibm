@@ -21,6 +21,12 @@
             // drink readyLatte
         }
         starbucks.makeMeALatte(Esteban);
+    - What is a Promise?
+        - I promise you a chick
+        const egg = chicken.makeChick(); // It's a promise!
+        egg
+            .then(chick => raiseChick()) // Success outcome
+            .catch(badEgg => throw badEgg) // Fail outcome
 1)Getting Started
 2)Node Package Manager
 3)Working With Web Servers
