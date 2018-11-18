@@ -38,8 +38,10 @@
         - setInterval (repeat the execution)
         - clearTimeOut(cancel the setTimeout process)
         - clearInterval(cancel the setInterval process)
-2)Node Package Manager
-3)Working With Web Servers
-4)Modern JavaScript
-5)Modules and Concurrency
+2)Modern JavaScript
+    - Variables and Block Scopes
+    - 
+3)Node Package Manager
+4)Modules and Concurrency
+5)Working With Web Servers
 6)Working With the OS
