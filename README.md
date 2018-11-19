@@ -40,7 +40,12 @@
         - clearInterval(cancel the setInterval process)
 2)Modern JavaScript
     - Variables and Block Scopes
-    - 
+    - Arrow Functions
+    - Object Literals
+    - Destructing and Rest/Spread
+    - Template Strings
+    - Classes
+    - Promises and Async/Await
 3)Node Package Manager
 4)Modules and Concurrency
 5)Working With Web Servers
