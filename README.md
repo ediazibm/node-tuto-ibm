@@ -47,6 +47,17 @@
     - Classes
     - Promises and Async/Await
 3)Node Package Manager
+    - Enables JS script developer to share their code, re-use their code, and re-use the code from others.
+    - Official node paclage management
+    - What is a package?
+        - AKA module
+        - Is a folder with a bunch of JS files.
+    - update npm: `npm install -g npm`
+    - package.json/package-lock.json
+        - The package json file is the one file that you'll see in every npm package.
+        - It's a json file that can be used to provide information about a package.
+        - It's required by npm
+    - install modules into devDependencies: `npm install -D`
 4)Modules and Concurrency
 5)Working With Web Servers
 6)Working With the OS
