@@ -58,6 +58,8 @@
         - It's a json file that can be used to provide information about a package.
         - It's required by npm
     - install modules into devDependencies: `npm install -D`
+    - install global: `npm i -g`
+    - install local: `npm install <name of the package>`
 4)Modules and Concurrency
 5)Working With Web Servers
 6)Working With the OS
