@@ -82,3 +82,13 @@
         - handlebars
         - ejs
 6)Working With the OS
+    - read information from the os
+    - write information to the os
+    - Modules:
+        - os: general communication with the os.
+        - fs: writing and writing to the os file system.
+        - child_process: enables you to run any os command from within node.
+    - Debugging node application
+        - node --inspect-brk <filename>
+        - chrome://inspect
+        - Remote target/inspect
