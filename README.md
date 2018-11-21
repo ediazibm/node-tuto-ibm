@@ -70,4 +70,15 @@
             - What Node uses to process asynchronous actions and interface them for you so that you do not have to deal with threads.
         - "Promises better than callbacks"
 5)Working With Web Servers
+    - nodemon will run the server but it will monitor the files for any change and will also restart the server.
+    - req & res are streams!
+    - frameworks to bulild web servers with node js
+        - Express
+        - Koa
+        - Sails
+        - Meteor
+    - Web Template Systems
+        - pug
+        - handlebars
+        - ejs
 6)Working With the OS
