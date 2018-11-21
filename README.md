@@ -61,5 +61,13 @@
     - install global: `npm i -g`
     - install local: `npm install <name of the package>`
 4)Modules and Concurrency
+    - Modules (export/require)
+        - Modules: A file or a folder than contains code.
+        - Module is a function that receives arguments and it will also return something.
+        - Node has a hidden wrapping function(exports, module, require, __filename, __dirname) and return module.exports by default.
+        - module.exports can be modified with a function or an object.
+        - THE EVENT LOOP
+            - What Node uses to process asynchronous actions and interface them for you so that you do not have to deal with threads.
+        - "Promises better than callbacks"
 5)Working With Web Servers
 6)Working With the OS
